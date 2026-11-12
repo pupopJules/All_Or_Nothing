@@ -3,9 +3,12 @@
 LIVE SERVER: https://pupopjules.github.io/AllOrNothing/
 
 JuTravel/
+
 │
+
 ├── index.html
-└── README.md
+
+8└── README.md
 
 ## 1. Project Description
 
