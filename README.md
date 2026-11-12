@@ -2,6 +2,11 @@
 
 LIVE SERVER: https://pupopjules.github.io/AllOrNothing/
 
+JuTravel/
+│
+├── index.html
+└── README.md
+
 ## 1. Project Description
 
 **JuTravel** is a simple tourism website designed to help users discover popular tourist destinations in the Philippines. It provides information about beautiful places such as Boracay, Baguio, and Palawan.
